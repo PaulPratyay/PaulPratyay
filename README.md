@@ -3,7 +3,7 @@
 I’m a Software Engineer passionate about building efficient backend systems, learning cloud and DevOps technologies, and creating impactful projects.
 
 - 👀 Interests: Cloud, DevOps, Full-Stack Development, AI/ML
-- 🌱 Currently learning: Terraform, Advanced AWS services, CI/CD practices, React
+- 🌱 Currently learning: AWS AIF, AWS SAA, CI/CD practices, React
 - 💼 Featured Project: [MyTranscript](https://github.com/PaulPratyay/my-transcript) – REST API for managing student transcripts
 - 💞️ I am looking to collaborate on **open-source projects, backend APIs, and real-world AI applications**
 - 📫 Reach me at: [pratyaydocker@gmail.com](mailto:pratyaydocker@gmail.com) | [LinkedIn](https://www.linkedin.com/in/paul-pratyay-160676305)
