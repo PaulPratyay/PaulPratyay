@@ -18,7 +18,7 @@ I’m a Software Engineer passionate about building efficient backend systems, l
 **Frameworks:** Spring Boot, Django  
 **Web:** HTML, CSS, JavaScript  
 **Databases:** PostgreSQL, MySQL, Oracle, SQLite  
-**Cloud & DevOps:** AWS (Certified), Docker, Jenkins, Git  
+**Cloud & DevOps:** AWS Certified Cloud Practitioner CLF-C02, HashiCorp Certified Terraform Associate (003),Docker, Jenkins, Git  
 **Testing:** JUnit, Mockito, Postman  
 **Tools:** GitHub, Jira, Grafana, Kibana, Tableau
 
